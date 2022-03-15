@@ -15,7 +15,7 @@ function App() {
       name: 'New TV',
       amount: '799.49',
       date: new Date(2020, 2, 12),
-    },
+    }, 
     {
       id: '3',
       name: 'Car Insurance',
