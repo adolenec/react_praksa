@@ -10,7 +10,7 @@ function App() {
       amount: '94.12',
       date: new Date(2020, 2, 14),
     },
-    {
+    { 
       id: '2',
       name: 'New TV',
       amount: '799.49',
