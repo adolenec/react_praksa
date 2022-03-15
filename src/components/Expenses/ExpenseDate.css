@@ -1,0 +1,26 @@
+.expense-date-div{
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px 25px;
+    background: black;
+}
+
+.expense-date-month{
+    font-weight: bold;
+    font-size: 0.75rem;
+    color: white;
+    text-align: center;
+}
+
+.expense-date-day{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.expense-date-year{
+    font-size: 0.75rem;
+    color: white;
+    text-align: center;
+}

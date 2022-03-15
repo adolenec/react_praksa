@@ -1,0 +1,17 @@
+.expenses{
+    width: 60%;
+    margin: 0 auto;
+    background: black;
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.item-description{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+}
