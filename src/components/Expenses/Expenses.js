@@ -9,7 +9,7 @@ const Expenses = (props) => {
             <ExpenseItem name={props.items[2].name} amount={props.items[2].amount} date={props.items[2].date} />
             <ExpenseItem name={props.items[3].name} amount={props.items[3].amount} date={props.items[3].date} />
         </div>
-    );
+    ); 
 } 
 
 export default Expenses; 

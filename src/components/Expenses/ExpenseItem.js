@@ -9,7 +9,7 @@ const ExpenseItem = (props) => {
                 <h2>{props.name}</h2>
                 <div className="amount-item">${props.amount}</div>
             </div>
-        </div>
+        </div> 
     ); 
 } 
 
