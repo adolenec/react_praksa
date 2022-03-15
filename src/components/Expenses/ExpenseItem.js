@@ -10,7 +10,7 @@ const ExpenseItem = (props) => {
                 <div className="amount-item">${props.amount}</div>
             </div>
         </div>
-    );
+    ); 
 } 
 
 export default ExpenseItem;
