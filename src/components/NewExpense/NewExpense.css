@@ -1,0 +1,7 @@
+.new-expense-div{
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    background: rgb(138, 102, 236);
+    border-radius: 15px;
+}
